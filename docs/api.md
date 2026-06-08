@@ -2,7 +2,7 @@
 社区资产模块
 小区管理
 获取小区信息
-接口地址: http://localhost:9999/hejiayun/community/list?pageNum=1&pageSize=10&communityName=宏福苑&communityCode=COMMUNITY_1675945745985
+接口地址: http://localhost:8888/hejiayun/community/list?pageNum=1&pageSize=10&communityName=宏福苑&communityCode=COMMUNITY_1675945745985
 
 请求方式: GET
 
